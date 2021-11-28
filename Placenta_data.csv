@@ -1,0 +1,38 @@
+Gene;Status;Placenta;Expression;Group
+EIF4G1;biallelic;fetal;10;1
+ENA12;not defined;fetal;10;1
+RCSD1;biallelic;fetal;10;1
+T1;biallelic;fetal;10;1
+COG5;not defined;fetal;15;1
+TLE2;biallelic;maternal;15;1
+RS4X?;not defined;maternal;15;1
+HAVCR1;maternal;maternal;15;3
+RRAGA;not defined;maternal;20;3
+UA2;not defined;maternal;20;3
+HS1L;biallelic;maternal;20;3
+ERO1A;biallelic;maternal;20;3
+OLK;biallelic;fetal;20;3
+DDX1;biallelic;fetal;25;2
+NINL;maternal;both;25;2
+RR1;not defined;both;25;2
+RCC1;not defined;both;25;2
+AT6V;biallelic;maternal;10;2
+DDX19;maternal;fetal;10;4
+CHD9;biallelic;maternal;10;4
+EG3;paternal;fetal;10;4
+CDH13;not defined;maternal;35;4
+CA5;not defined;fetal;35;4
+FN1;biallelic;fetal;35;4
+SCRN3;biallelic;fetal;35;5
+HEX;maternal;fetal;40;5
+TRANK1;biallelic;fetal;40;5
+KIF15;not defined;fetal;40;5
+C3;not defined;fetal;40;5
+HIST1H1E;biallelic;maternal;40;5
+RL;maternal;maternal;40;6
+E2;maternal;maternal;40;6
+KI67;biallelic;maternal;40;6
+WDR17;not defined;maternal;40;6
+FA35A;paternal;maternal;40;6
+AG21;paternal;maternal;40;6
+AHNAK;maternal;maternal;40;6
